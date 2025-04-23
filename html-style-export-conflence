@@ -1,0 +1,47 @@
+
+<!-- COUVERTURE -->
+<table style="width:100%"  align="center">
+<tr>
+<td style="width:100%; text-align:center;">
+<img style="width:450px; display:inline-block;padding:2rem; margin-top: 80px;"
+src="https://raw.githubusercontent.com/rhinos-solutions/art/a0508a6687769cd1f49206dade4cd96ab1551bd9/logo.png"
+alt="">
+</td>
+</tr>
+</table>
+<p style="text-align:center;font-weight:600;font-size:38px; font-family: Arial, sans-serif;">
+<b>
+USER STORIES
+</b>
+</p>
+<p style="text-align:center;font-weight:bold;font-size:28px;  font-family: Arial, sans-serif;">
+[NOM PROJET]
+</p>
+<p style="text-align:center;font-weight:bold;font-size:24px;margin-bottom:28px; font-family: Arial, sans-serif;">
+[NOM CLIENT]
+</p>
+<p style="text-align:center;font-weight:bold;font-size:20px; font-family: Arial, sans-serif;">
+MISE À JOUR LE : [DATE]
+</p>
+
+
+<!-- EN TETE -->
+<table style="width:100%"  align="center">
+<tr>
+    <td style="width:100%; text-align:center;">
+        <img style="width:175px; display:inline-block; padding-top: 20px;"
+        src="https://raw.githubusercontent.com/rhinos-solutions/art/a0508a6687769cd1f49206dade4cd96ab1551bd9/logo.png"
+        alt="">
+    </td>
+</tr>
+</table>
+
+
+<!-- PIED DE PAGE -->
+<table style="width:100%" align="center">
+<tr>
+    <td style="width:100%; text-align:center;">
+<p style="text-align: center; font-size: 12px; padding-bottom: 10px;">Document confidentiel - ® Groupe Rhinos</p>
+    </td>
+</tr>
+</table>
